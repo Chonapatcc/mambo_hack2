@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/Chonapatcc/spaiss6_hack2/blob/main/pipeline.ipynb
+https://colab.research.google.com/github/Chonapatcc/mambo_hack2/blob/main/pipeline.ipynb
