@@ -2,7 +2,37 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(pip install:*)",
+      "Bash(set KAGGLE_CONFIG_DIR=D:/Code/spaiss6_hack2)",
+      "Bash(kaggle competitions:*)",
+      "Bash(python -m kaggle competitions download -c super-ai-engineer-season-6-ocr-2569 -p \"D:/Code/spaiss6_hack2/\")",
+      "Bash(KAGGLE_CONFIG_DIR=\"D:/Code/spaiss6_hack2\" python -m kaggle competitions download -c super-ai-engineer-season-6-ocr-2569 -p \"D:/Code/spaiss6_hack2/\")",
+      "Bash(KAGGLE_CONFIG_DIR=\"D:/Code/spaiss6_hack2\" python -c \":*)",
+      "Bash(ls -la \"D:/Code/spaiss6_hack2/\"*.zip)",
+      "Bash(python -c \":*)",
+      "Bash(mv pipeline.ipynb pipeline_paddleocr.ipynb)",
+      "Bash(ls *.ipynb)",
+      "WebFetch(domain:colab.research.google.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:blog.roboflow.com)",
+      "WebFetch(domain:opentyphoon.ai)",
+      "WebFetch(domain:docs.opentyphoon.ai)",
+      "WebFetch(domain:pub.towardsai.net)",
+      "WebFetch(domain:ai.google.dev)",
+      "WebFetch(domain:arxiv.org)",
+      "WebFetch(domain:nanonets.com)",
+      "WebFetch(domain:docs.cloud.google.com)",
+      "WebFetch(domain:community.openai.com)",
+      "WebFetch(domain:www.reddit.com)",
+      "WebFetch(domain:learnopencv.com)",
+      "WebFetch(domain:pyimagesearch.com)",
+      "WebFetch(domain:www.sergioagostinelli.com)",
+      "WebFetch(domain:cookbook.openai.com)",
+      "WebFetch(domain:developers.openai.com)",
+      "WebFetch(domain:python.langchain.com)",
+      "Bash(python -u -c \":*)",
+      "WebFetch(domain:www.aifreeapi.com)"
     ]
   }
 }
